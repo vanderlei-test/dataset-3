@@ -1,4 +1,4 @@
-id,graduation,course,university,profession,activity,company,city,state,P1,P2,P3,P4,P5,P6
+id,graduation,university_course,university,profession,activity,company,city,state,P1,P2,P3,P4,P5,P6
 0x0153D28EE71991AB66A405FF6BD3E28BD213D853,Bacharelado,Engenharia de Materiais,UFRN,SEM EXPERIÊNCIA,,,NULL,NULL,4,TRUE,FALSE,4,Instagram,TRUE
 0x0316BF7F36CA3F5D448F5ACBA075E018AC785692,Bacharelado,Direito,UEPB,Advogado,,Prefeitura Municipal de Picuí,NULL,NULL,0,FALSE,TRUE,0,Google,FALSE
 0x05A00DBA384879D9223450BCF7F1DDB0F6F58B09,Bacharelado,ADMINISTRAÇÃO,UNIVERSIDADE PRESBITERIANA MACKENZIE,Analista,,Genial Investimentos,NULL,NULL,2,TRUE,TRUE,4,Google,FALSE
